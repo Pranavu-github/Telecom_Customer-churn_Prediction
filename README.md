@@ -1,4 +1,4 @@
-# Telecom_Customer-churn_Prediction
+Telecom Customer Churn Prediction
 Telecom Churn Prediction Project
 Business Problem Overview
 In the highly competitive telecom industry, customer churn is a critical concern. With an annual churn rate ranging from 15-25%, retaining high-profitable customers has become the top business goal for many telecom operators. Acquiring new customers is considerably more expensive than retaining existing ones, making customer retention a strategic priority.
@@ -34,5 +34,3 @@ Deliverables
 Jupyter notebook containing data analysis and model development code.
 Presentation summarizing key findings and recommendations.
 By the end of this project, we aim to provide actionable insights to the telecom company for reducing churn, particularly among high-value customers in the Indian and Southeast Asian markets.
-
-
